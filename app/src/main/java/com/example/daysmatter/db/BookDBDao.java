@@ -11,9 +11,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 手机数据表操作类
- * @author  dlong
- * created at 2019/3/13 11:39 AM
+ * 倒数本数据表
+ * @author  Avril
  */
 public class BookDBDao {
 

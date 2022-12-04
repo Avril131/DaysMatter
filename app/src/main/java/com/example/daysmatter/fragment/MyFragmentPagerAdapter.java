@@ -10,6 +10,7 @@ import androidx.fragment.app.FragmentPagerAdapter;
 import com.example.daysmatter.MainActivity;
 
 
+// 重写FragmentPageAdapter
 public class MyFragmentPagerAdapter extends FragmentPagerAdapter {
     private final int PAGER_COUNT = 4;
 

@@ -28,6 +28,7 @@ public class UserFragment extends Fragment {
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
         textView=view.findViewById(R.id.user);
+        textView.setText("11111");
     }
 }
 
